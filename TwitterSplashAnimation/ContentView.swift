@@ -47,7 +47,7 @@ struct SplashScreen: View {
                                 .resizable()
                                 .aspectRatio(contentMode: .fit)
                                 .frame(width: 80, height: 80)
-                                .scaleEffect(splashAnimation ? 35 : 1)
+                                .scaleEffect(splashAnimation ? 50 : 1)
                                 .blendMode(.destinationOut)
                             )
                 )
