@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		30DB206027A354BF006DAD8A /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DB205F27A354BF006DAD8A /* SplashScreen.swift */; };
 		30EE9D8B27A343F30029B32C /* TwitterSplashAnimationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30EE9D8A27A343F20029B32C /* TwitterSplashAnimationApp.swift */; };
 		30EE9D8D27A343F30029B32C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30EE9D8C27A343F30029B32C /* ContentView.swift */; };
 		30EE9D8F27A343F50029B32C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30EE9D8E27A343F50029B32C /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 
 /* Begin PBXFileReference section */
 		30DB205E27A34FF4006DAD8A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		30DB205F27A354BF006DAD8A /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
 		30EE9D8727A343F20029B32C /* TwitterSplashAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TwitterSplashAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		30EE9D8A27A343F20029B32C /* TwitterSplashAnimationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwitterSplashAnimationApp.swift; sourceTree = "<group>"; };
 		30EE9D8C27A343F30029B32C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				30DB205E27A34FF4006DAD8A /* Info.plist */,
 				30EE9D8A27A343F20029B32C /* TwitterSplashAnimationApp.swift */,
 				30EE9D8C27A343F30029B32C /* ContentView.swift */,
+				30DB205F27A354BF006DAD8A /* SplashScreen.swift */,
 				30EE9D8E27A343F50029B32C /* Assets.xcassets */,
 				30EE9D9027A343F50029B32C /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				30DB206027A354BF006DAD8A /* SplashScreen.swift in Sources */,
 				30EE9D8D27A343F30029B32C /* ContentView.swift in Sources */,
 				30EE9D8B27A343F30029B32C /* TwitterSplashAnimationApp.swift in Sources */,
 			);
